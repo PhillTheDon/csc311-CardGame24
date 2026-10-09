@@ -1,0 +1,8 @@
+# IntelliJ IDEA settings
+.idea/
+
+# Compiled Java files
+target/
+
+# Operating system files
+.DS_Store
